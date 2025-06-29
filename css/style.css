@@ -942,9 +942,17 @@ a:focus {
   margin: 45px auto 15px auto;
 }
 
-.info_section .info_social img {
+.info_section .info_social i {
+  font-size: 20px;
+  color: #000000;
+  background-color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 35px;
   width: 35px;
   margin: 0 7px;
+  border-radius: 50px;
 }
 
 
